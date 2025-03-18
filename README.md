@@ -1,83 +1,41 @@
-<h1>Parallel & Distributed Computing Assignments</h1>
+# Parallel & Distributed Computing Assignments
 
-<h2>Assignment 1</h2>
-<ol>
-    <li>
-        MPI program to display "Hello World" message from multiple parallel processes
-        <br>
-        <img src="Assignment1/Snapshots/Q1.png" alt="Project Screenshot" width="900">
-    </li>
+## Assignment 1
+1. **MPI program to display "Hello World" message from multiple parallel processes**  
+   ![Project Screenshot](Assignment1/Snapshots/Q1.png)
 
-    <li>
-        MPI program to send and receive messages using MPI_Send() and MPI_Recv()
-        <br>
-        <img src="Assignment1/Snapshots/Q2.png" alt="Project Screenshot" width="900">
-    </li>
+2. **MPI program to send and receive messages using `MPI_Send()` and `MPI_Recv()`**  
+   ![Project Screenshot](Assignment1/Snapshots/Q2.png)
 
-    <li>
-        MPI program to send and receive messages dynamically
-        <br>
-        <img src="Assignment1/Snapshots/Q3.png" alt="Project Screenshot" width="900">
-    </li>
+3. **MPI program to send and receive messages dynamically**  
+   ![Project Screenshot](Assignment1/Snapshots/Q3.png)
 
-    <li>
-        MPI program for Heat Distribution Simulation
-        <br>
-        <img src="Assignment1/Snapshots/Q4.png" alt="Project Screenshot" width="900">
-    </li>
-</ol>
+4. **MPI program for Heat Distribution Simulation**  
+   ![Project Screenshot](Assignment1/Snapshots/Q4.png)
 
-<br>
-<hr>
-<br>
+---
 
-<h2>Assignment 2</h2>
-<ol>
-    <li>
-        Estimate value of pi using Monte-Carlo Method
-        <br>
-        <img src="Assignment2/Snapshots/Q1.png" alt="Project Screenshot" width="900">
-    </li>
+## Assignment 2
+1. **Estimate value of Pi using Monte-Carlo Method**  
+   ![Project Screenshot](Assignment2/Snapshots/Q1.png)
 
-    <li>
-        Matrix Multiplication time comparison for sequential and parallel
-        <br>
-        <img src="Assignment2/Snapshots/Q2.png" alt="Project Screenshot" width="900">
-    </li>
+2. **Matrix Multiplication time comparison (Sequential vs Parallel)**  
+   ![Project Screenshot](Assignment2/Snapshots/Q2.png)
 
-    <li>
-        Even-Odd sorting
-        <br>
-        <img src="Assignment1/Snapshots/Q3.png" alt="Project Screenshot" width="900">
-    </li>
+3. **Even-Odd Sorting**  
+   ![Project Screenshot](Assignment1/Snapshots/Q3.png)
 
-    <li>
-        Heat Distribution Simulation
-        <br>
-        <img src="Assignment1/Snapshots/Q4.png" alt="Project Screenshot" width="900">
-    </li>
+4. **Heat Distribution Simulation**  
+   ![Project Screenshot](Assignment1/Snapshots/Q4.png)
 
-    <li>
-        Parallel Reduction using MPI
-        <br>
-        <img src="Assignment2/Snapshots/Q5.png" alt="Project Screenshot" width="900">
-    </li>
+5. **Parallel Reduction using MPI**  
+   ![Project Screenshot](Assignment2/Snapshots/Q5.png)
 
-    <li>
-        Parallel Dot Product using MPI
-        <br>
-        <img src="Assignment2/Snapshots/Q6.png" alt="Project Screenshot" width="900">
-    </li>
+6. **Parallel Dot Product using MPI**  
+   ![Project Screenshot](Assignment2/Snapshots/Q6.png)
 
-    <li>
-        Parallel Prefix Sum using MPI
-        <br>
-        <img src="Assignment2/Snapshots/Q7.png" alt="Project Screenshot" width="900">
-    </li>
+7. **Parallel Prefix Sum using MPI**  
+   ![Project Screenshot](Assignment2/Snapshots/Q7.png)
 
-    <li>
-        Parallel Matrix Transposition using MPI
-        <br>
-        <img src="Assignment2/Snapshots/Q8.png" alt="Project Screenshot" width="900">
-    </li>
-</ol>
+8. **Parallel Matrix Transposition using MPI**  
+   ![Project Screenshot](Assignment2/Snapshots/Q8.png)
