@@ -51,3 +51,8 @@
     <img src="Assignment4/Snapshots/Q2.png" alt="Project Screenshot" width="900">
     <img src="Assignment4/Snapshots/Q2(2).png" alt="Project Screenshot" width="900">
 </ol>
+<h2>Assignment 5</h2>
+<ol>
+    <li>Vector Addition </li>
+    <img src="Assignment5/Snapshots/Q1(1).png" alt="Project Screenshot" width="900">
+</ol>
