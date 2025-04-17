@@ -43,3 +43,11 @@
     <li>Counting Primes upto a range </li>
     <img src="Assignment3/Snapshots/Q3.png" alt="Project Screenshot" width="900">
 </ol>
+<h2>Assignment 4</h2>
+<ol>
+    <li>Sum of first N natural numbers </li>
+    <img src="Assignment4/Snapshots/Q1.png" alt="Project Screenshot" width="900">
+    <li>Parallel Merge Sort</li>
+    <img src="Assignment4/Snapshots/Q2.png" alt="Project Screenshot" width="900">
+    <img src="Assignment4/Snapshots/Q2(2).png" alt="Project Screenshot" width="900">
+</ol>
