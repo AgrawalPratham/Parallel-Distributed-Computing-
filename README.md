@@ -56,3 +56,9 @@
     <li>Vector Addition </li>
     <img src="Assignment5/Snapshots/Q1(1).png" alt="Project Screenshot" width="900">
 </ol>
+<h2>Assignment 6</h2>
+<ol>
+    <li>Vector Square root </li>
+    <img src="Assignment6/Snapshots/Q1(1).png" alt="Project Screenshot" width="900">
+    <img src="Assignment6/Snapshots/Q1(2).png" alt="Project Screenshot" width="900">
+</ol>
